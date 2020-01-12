@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Assets/Universe/Planet.Systems/PlanetCreateMeshSystem.cs'" />
-    <option name="defaultScopeName" value="File '.../Assets/Universe/Planet.Systems/PlanetCreateMeshSystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Assets/Universe/Planet.Systems/PlanetCreateMeshSystem.cs'" />
+    <option name="customScope" value="File '.../Assets/SimpleSubScene/Systems/EntityUpdateComponentSystem.cs'" />
+    <option name="defaultScopeName" value="File '.../Assets/SimpleSubScene/Systems/EntityUpdateComponentSystem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Assets/SimpleSubScene/Systems/EntityUpdateComponentSystem.cs'" />
   </component>
 </application>
