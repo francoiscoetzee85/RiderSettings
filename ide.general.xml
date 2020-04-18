@@ -29,5 +29,6 @@
     <entry key="debugger.new.debug.tool.window.view" value="true" />
     <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
