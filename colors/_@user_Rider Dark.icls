@@ -4,7 +4,7 @@
     <property name="created">2019-11-25T23:02:38</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-08-11T00:45:05</property>
+    <property name="modified">2020-08-11T22:46:23</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -16,7 +16,7 @@
   <attributes>
     <option name="ReSharper.PREPROCESSOR_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc00bd" />
+        <option name="FOREGROUND" value="ffff00" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
