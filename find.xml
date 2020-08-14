@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Assets/Universe/Planet.DataTables/DataTableUtils.cs'" />
-    <option name="defaultScopeName" value="File '.../Assets/Universe/Planet.DataTables/DataTableUtils.cs'" />
+    <option name="customScope" value="File '.../Assets/Universe/Planet.DataTables/PlanetDataTablesComponent.cs'" />
+    <option name="defaultScopeName" value="File '.../Assets/Universe/Planet.DataTables/PlanetDataTablesComponent.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../Assets/Universe/Planet.DataTables/DataTableUtils.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Assets/Universe/Planet.DataTables/PlanetDataTablesComponent.cs'" />
   </component>
 </application>
