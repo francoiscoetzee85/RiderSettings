@@ -137,6 +137,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.axaml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.axml">
           <value>
             <plugin>
@@ -462,6 +471,15 @@
           </value>
         </entry>
         <entry key="*.ent">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.entitlements">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -1243,6 +1261,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.paml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.patch">
           <value>
             <plugin>
@@ -1904,7 +1931,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
+              <option name="myPluginName" value="com.intellij.resharper.unity" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2404,6 +2431,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Entitlements.plist">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="StyleCop.Cache">
           <value>
             <plugin>
@@ -2414,6 +2450,15 @@
           </value>
         </entry>
         <entry key="bowerrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="entitlements.plist">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
