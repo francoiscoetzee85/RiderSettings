@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../Assets/Universe/Planet.Entities/Core/Systems/CreateTriangleMeshSystem.cs'" />
-    <option name="defaultScopeName" value="File '.../Assets/Universe/Planet.Entities/Core/Systems/CreateTriangleMeshSystem.cs'" />
+    <option name="customScope" value="Project 'Planet.Entities.Core'" />
+    <option name="defaultScopeName" value="Project 'Planet.Entities.Core'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../Assets/Universe/Planet.Entities/Core/Systems/CreateTriangleMeshSystem.cs'" />
+    <option name="SEARCH_SCOPE" value="Project 'Planet.Entities.Core'" />
   </component>
 </application>
