@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeLensSettings">
+    <anchor>
+      <map>
+        <entry key="CognitiveComplexityCodeInsightsProvider" value="Top" />
+      </map>
+    </anchor>
+    <enabled>
+      <map />
+    </enabled>
+  </component>
+</application>

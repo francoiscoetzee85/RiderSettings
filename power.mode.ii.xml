@@ -1,0 +1,7 @@
+<application>
+  <component name="PowerModeII">
+    <option name="enabled" value="false" />
+    <option name="flameLife" value="4009" />
+    <option name="sparkCount" value="75" />
+  </component>
+</application>
