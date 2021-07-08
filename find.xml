@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Assets/TCC/ECS/Components/ReferenceGraphComponent.cs'" />
-    <option name="defaultScopeName" value="File '.../Assets/TCC/ECS/Components/ReferenceGraphComponent.cs'" />
+    <option name="customScope" value="File '.../Assets/TCC/ECS/Components/TagBarSpawnerComponent.cs'" />
+    <option name="defaultScopeName" value="File '.../Assets/TCC/ECS/Components/TagBarSpawnerComponent.cs'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../Assets/TCC/ECS/Components/ReferenceGraphComponent.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Assets/TCC/ECS/Components/TagBarSpawnerComponent.cs'" />
   </component>
 </application>
