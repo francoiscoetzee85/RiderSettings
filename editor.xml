@@ -28,8 +28,8 @@
       <option name="FONT_TYPE" value="3" />
     </pattern>
     <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;NOTE)(\W|$)(.*)">
-      <option name="FOREGROUND" value="0" />
-      <option name="BACKGROUND" value="6ba138" />
+      <option name="FOREGROUND" value="323232" />
+      <option name="BACKGROUND" value="81b85d" />
       <option name="FONT_TYPE" value="3" />
     </pattern>
   </component>
