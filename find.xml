@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Assets/TCC/ECS/Authoring/GraphDataAuthoring.cs'" />
-    <option name="defaultScopeName" value="File '.../Assets/TCC/ECS/Authoring/GraphDataAuthoring.cs'" />
+    <option name="customScope" value="File '.../Assets/TCC/ECS/Authoring/GraphUISliderPanelAuthoring.cs'" />
+    <option name="defaultScopeName" value="File '.../Assets/TCC/ECS/Authoring/GraphUISliderPanelAuthoring.cs'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../Assets/TCC/ECS/Authoring/GraphDataAuthoring.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Assets/TCC/ECS/Authoring/GraphUISliderPanelAuthoring.cs'" />
   </component>
 </application>
