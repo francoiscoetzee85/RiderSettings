@@ -20,11 +20,21 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
+    <pattern icon="question" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;WIP)(\W|$)(.*)">
+      <option name="FOREGROUND" value="383838" />
+      <option name="BACKGROUND" value="ae56ff" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)">
       <option name="FOREGROUND" value="ff5fc0" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="66c3cc" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;Note)(\W|$)(.*)">
+      <option name="FOREGROUND" value="323232" />
+      <option name="BACKGROUND" value="81b85d" />
+      <option name="FONT_TYPE" value="3" />
     </pattern>
   </component>
 </application>
