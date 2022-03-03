@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="SetPugInPath" type="AUTO_DETECTED" />
       <mapping ext="exr" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
 </application>
