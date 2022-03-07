@@ -22,6 +22,10 @@
           <option name="url" value="git@bitbucket.org:zivadynamics/misc-tools.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://francoiscoetzeeunity3d@bitbucket.org/zivadynamics/zivavfx-assets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Work\ZivaDynamics\GitReop" />
