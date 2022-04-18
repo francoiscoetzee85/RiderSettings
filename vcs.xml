@@ -38,6 +38,10 @@
           <option name="url" value="https://github.cds.internal.unity3d.com/unity/com.unity.rendering.zivart-player.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/francoiscoetzeeunity3d/ziva-unity-render-pipeline.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Work\ZivaDynamics\GitReop" />
