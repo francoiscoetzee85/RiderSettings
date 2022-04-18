@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/francoiscoetzeeunity3d/ziva-unity-render-pipeline.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/francoiscoetzeeunity3d/com.ziva.render.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Work\ZivaDynamics\GitReop" />
