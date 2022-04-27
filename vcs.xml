@@ -66,9 +66,13 @@
           <option name="url" value="https://github.cds.internal.unity3d.com/francois-coetzee/com.ziva.render.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.cds.internal.unity3d.com/francois-coetzee/ziva-render-readonly.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Work\ZivaDynamics\ZivaS3\ziva-unity-render-pipeline\packages" />
+    <option name="cloneParentDir" value="E:\Work\ZivaDynamics\ZivaS3\ziva-unity-render-pipeline\projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
