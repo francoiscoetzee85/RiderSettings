@@ -58,9 +58,13 @@
           <option name="url" value="https://github.cds.internal.unity3d.com/francois-coetzee/Me.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.cds.internal.unity3d.com/francois-coetzee/ziva-unity-render-pipeline.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Work\ZivaDynamics\GitReop" />
+    <option name="cloneParentDir" value="E:\Work\ZivaDynamics\ZivaS3" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
