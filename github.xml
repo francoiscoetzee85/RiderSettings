@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="francois-coetzee" id="522938a3-fd55-4cba-80c4-6ffe6aa2be18">
+      <server useHttp="false" host="github.cds.internal.unity3d.com" />
+    </account>
+  </component>
+</application>
