@@ -11,7 +11,8 @@
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
-        <entry key="CognitiveComplexityCodeInsightsProvider" value="Top" />
+        <entry key="CognitiveComplexityCodeInsightsProvider" value="Right" />
+        <entry key="Usages" value="Right" />
       </map>
     </option>
   </component>
