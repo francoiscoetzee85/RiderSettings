@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\Work\ZivaDynamics\ZivaS3\ziva-unity-render-pipeline\packages\com.ziva.render\Utils\SystemUtils.cs'" />
-    <option name="defaultScopeName" value="File 'E:\Work\ZivaDynamics\ZivaS3\ziva-unity-render-pipeline\packages\com.ziva.render\Utils\SystemUtils.cs'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'E:\Work\ZivaDynamics\ZivaS3\ziva-unity-render-pipeline\packages\com.ziva.render\Utils\SystemUtils.cs'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
