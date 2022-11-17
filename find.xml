@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File 'E:\Work\ZivaDynamics\ZivaS3\ziva-unity-render-pipeline\packages\com.ziva.render\Runtime\Utils\MetaDataUtils.cs'" />
+    <option name="defaultScopeName" value="File 'E:\Work\ZivaDynamics\ZivaS3\ziva-unity-render-pipeline\packages\com.ziva.render\Runtime\Utils\MetaDataUtils.cs'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File 'E:\Work\ZivaDynamics\ZivaS3\ziva-unity-render-pipeline\packages\com.ziva.render\Runtime\Utils\MetaDataUtils.cs'" />
   </component>
 </application>
