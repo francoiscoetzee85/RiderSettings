@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\Work\ZivaDynamics\ZivaS3\d\ziva-unity-render-pipeline\packages\com.ziva.render\Runtime\Utils\CameraUtils.cs'" />
-    <option name="defaultScopeName" value="File 'E:\Work\ZivaDynamics\ZivaS3\d\ziva-unity-render-pipeline\packages\com.ziva.render\Runtime\Utils\CameraUtils.cs'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'E:\Work\ZivaDynamics\ZivaS3\d\ziva-unity-render-pipeline\packages\com.ziva.render\Runtime\Utils\CameraUtils.cs'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
