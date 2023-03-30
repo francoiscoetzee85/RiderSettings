@@ -3,10 +3,35 @@
     <property name="created">2023-03-08T09:10:00</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2023-03-09T12:08:16</property>
+    <property name="modified">2023-03-31T10:38:38</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <colors>
     <option name="IMAGES_BACKGROUND" value="0" />
   </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d0d0d0" />
+        <option name="BACKGROUND" value="b171a" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
