@@ -1,10 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account name="francoiscoetzee85" id="86d89320-41b7-47f2-9d6c-8ae475bfae71">
-      <server host="github.com" />
-    </account>
     <account name="francois-coetzee" id="e8cf52c6-1a9e-46a1-b307-eb498f793b4e">
       <server useHttp="false" host="github.cds.internal.unity3d.com" />
+    </account>
+    <account name="francoiscoetzee85" id="86d89320-41b7-47f2-9d6c-8ae475bfae71">
+      <server host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
