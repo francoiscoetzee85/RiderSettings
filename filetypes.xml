@@ -5,6 +5,7 @@
       <mapping pattern="SetPugInPath" type="AUTO_DETECTED" />
       <mapping ext="dmp" type="AUTO_DETECTED" />
       <mapping ext="exr" type="PLAIN_TEXT" />
+      <removed_mapping ext="inputactions" approved="true" type="JSON" />
       <removed_mapping ext="tps" approved="true" type="XML" />
     </extensionMap>
   </component>
