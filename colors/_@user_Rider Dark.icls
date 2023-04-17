@@ -4,13 +4,14 @@
     <property name="created">2023-03-08T09:10:00</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2023-04-16T09:48:57</property>
+    <property name="modified">2023-04-18T10:30:23</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="8" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
+    <option name="CARET_COLOR" value="ffff00" />
     <option name="CONSOLE_BACKGROUND_KEY" value="b1619" />
     <option name="IMAGES_BACKGROUND" value="0" />
   </colors>
