@@ -31,5 +31,13 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="66c3cc" />
     </pattern>
+    <pattern useCustomColors="true" pattern="\|--\|--\|(?=\W|$)">
+      <option name="BACKGROUND" value="b7300" />
+      <option name="FONT_TYPE" value="1" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\|xx\|xx\|(?=\W|$)">
+      <option name="BACKGROUND" value="ff0000" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
   </component>
 </application>
