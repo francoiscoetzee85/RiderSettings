@@ -37,7 +37,7 @@
     </pattern>
     <pattern useCustomColors="true" pattern="\|xx\|xx\|(?=\W|$)">
       <option name="BACKGROUND" value="ff0000" />
-      <option name="FONT_TYPE" value="3" />
+      <option name="FONT_TYPE" value="1" />
     </pattern>
   </component>
 </application>
